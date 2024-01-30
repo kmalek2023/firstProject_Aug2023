@@ -7,6 +7,7 @@ public class GitTest2 {
 		printMe();
 		printMetoo();
 		add();
+		sub();
 
 	}
 	
@@ -22,6 +23,11 @@ public class GitTest2 {
 		int x = 5;
 		int y = 100;
 		System.out.println(x+y);
+	}
+	public static void sub() {
+		int x = 5;
+		int y = 100;
+		System.out.println(x-y);
 	}
 
 }
