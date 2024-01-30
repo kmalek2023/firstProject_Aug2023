@@ -8,6 +8,7 @@ public class GitTest2 {
 		printMetoo();
 		add();
 		sub();
+		mult();
 
 	}
 	
@@ -28,6 +29,11 @@ public class GitTest2 {
 		int x = 5;
 		int y = 100;
 		System.out.println(x-y);
+	}
+	public static void mult() {
+		int x = 5;
+		int y = 100;
+		System.out.println(x*y);
 	}
 
 }
