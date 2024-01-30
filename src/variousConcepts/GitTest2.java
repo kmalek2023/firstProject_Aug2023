@@ -19,7 +19,7 @@ public class GitTest2 {
 	public static void printMetoo() {
 		System.out.println("printMe");
 	}
-	
+	 
 	public static void add() {
 		int x = 5;
 		int y = 100;
@@ -34,7 +34,15 @@ public class GitTest2 {
 		int x = 5;
 		int y = 100;
 		System.out.println(x*y);
-		System.out.println("multiplication");
+		System.out.println("multiplication"); 
+		
 	}
+	public static void div() {
+		int x = 5;
+		int y = 100;
+		System.out.println(x/y);
+				
+	}
+	
 
 }
