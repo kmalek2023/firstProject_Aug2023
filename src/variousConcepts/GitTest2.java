@@ -34,6 +34,7 @@ public class GitTest2 {
 		int x = 5;
 		int y = 100;
 		System.out.println(x*y);
+		System.out.println("multiplication");
 	}
 
 }
